@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ajjha
 - 👀 I’m interested in JAVA SD
-- 🌱 I currently started working @TCS.
 - 📫 reach me at :
 -            Email : - ajyt06@gmail.com
 <!---
